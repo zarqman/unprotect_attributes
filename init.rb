@@ -1,0 +1,1 @@
+require 'unprotect_attributes'

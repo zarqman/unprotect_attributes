@@ -1,0 +1,7 @@
+author: t.e.morgan
+summary: 'unprotect_attributes: add methods to ActiveRecord to modify all attributes, including protected ones'
+homepage: http://iprog.com/project/unprotect_attributes
+plugin: http://svn.iprog.com/projects/rails/plugins/unprotect_attributes
+license: MIT
+version: 0.20080809
+rails_version: 2.1+
